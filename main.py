@@ -44,7 +44,7 @@ def get_mp4(url):
     # mp4_1080p.download()
 
 
-api_key = 'AIzaSyB2d1meTlIzGFTlFv47euoWMy6X7HFLCcU'
+api_key = 'INSERT YOUR OWN API KEY' #Google API key
 yt = YouTubeDataAPI(api_key)
 
 video = yt.search('The Most Beautiful Equation in Math')[0]
