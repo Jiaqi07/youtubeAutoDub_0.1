@@ -1,5 +1,3 @@
-# Streaming AI (Twitch or Youtube)
-
 ## Install FFmpeg
 https://www.wikihow.com/Install-FFmpeg-on-Windows
 ### Install ffmpeg-python  [ffmpeg-python API Docs](https://kkroening.github.io/ffmpeg-python/)
